@@ -1,0 +1,14 @@
+{
+  "name": "cbrf",
+  "version": "1.0.0",
+  "description": "CB.RF API RATE ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cbrf"
+  ],
+  "author": "seapp88 <mltec.495@gmail.com>",
+  "license": "MIT"
+}
